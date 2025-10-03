@@ -1,4 +1,6 @@
 # Loneliness-and-cognitive-function-in-older-adults #
+The study uses data from the Survey of Health Ageing and Retirement in Europe (SHARE)
+
 Stata files: 
 - Share_combine data: selecting the variables from the original SHARE datasets (waves 4-8 in this file, but only waves 5-8 were used for the study)
 - Share_variables: recoding the original SHARE variables 
